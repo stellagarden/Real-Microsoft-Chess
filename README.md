@@ -1,4 +1,4 @@
-# Real-Microsoft-Chess
+# Real Microsoft Chess
 
 ### Duration and Location
 - Oct. 2018
